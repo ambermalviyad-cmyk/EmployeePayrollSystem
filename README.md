@@ -1,4 +1,4 @@
-# Employee Payroll System
+# Employee Payroll System.
 
 ## 1. Project Title
 
